@@ -62,6 +62,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dump", "filters\dump\dump.v
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Windowless", "vmr9\windowless\windowless.vcxproj", "{4F985AB7-257C-4B1E-87EA-6D7D8B480B5E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ball", "filters\ball\Ball.vcxproj", "{9D3C9114-5067-45E6-B83D-12D31EF86297}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -174,6 +176,14 @@ Global
 		{4F985AB7-257C-4B1E-87EA-6D7D8B480B5E}.Release|Win32.Build.0 = Release|Win32
 		{4F985AB7-257C-4B1E-87EA-6D7D8B480B5E}.Release|x64.ActiveCfg = Release|x64
 		{4F985AB7-257C-4B1E-87EA-6D7D8B480B5E}.Release|x64.Build.0 = Release|x64
+		{9D3C9114-5067-45E6-B83D-12D31EF86297}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9D3C9114-5067-45E6-B83D-12D31EF86297}.Debug|Win32.Build.0 = Debug|Win32
+		{9D3C9114-5067-45E6-B83D-12D31EF86297}.Debug|x64.ActiveCfg = Debug|x64
+		{9D3C9114-5067-45E6-B83D-12D31EF86297}.Debug|x64.Build.0 = Debug|x64
+		{9D3C9114-5067-45E6-B83D-12D31EF86297}.Release|Win32.ActiveCfg = Release|Win32
+		{9D3C9114-5067-45E6-B83D-12D31EF86297}.Release|Win32.Build.0 = Release|Win32
+		{9D3C9114-5067-45E6-B83D-12D31EF86297}.Release|x64.ActiveCfg = Release|x64
+		{9D3C9114-5067-45E6-B83D-12D31EF86297}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -192,6 +202,7 @@ Global
 		{36DC1879-2799-434B-876D-69FEC2945462} = {3C0EA000-FD50-40F4-B24F-FEB759DBFBFD}
 		{A44243DA-9677-49A3-AC13-689EAA8A4E9D} = {1F9B32AB-0389-496C-8C6A-31AD2719B40D}
 		{4F985AB7-257C-4B1E-87EA-6D7D8B480B5E} = {ABB63B13-406A-430C-8B0C-197A2285042A}
+		{9D3C9114-5067-45E6-B83D-12D31EF86297} = {1F9B32AB-0389-496C-8C6A-31AD2719B40D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {824D1E4A-01B3-492C-ADA0-E5DC7ED20C62}
